@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mobile LeMinh</string>
+
+    <!-- Logo app-->
+    <string name="logo_app">RentalZ</string>
+
+    <!-- Aim app -->
+    <string name="aim">Apartment Rent</string>
+
+    <!-- Create Form -->
+    <string name="property_type">Property Type</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="date_time">Date &amp; time</string>
+    <string name="monthly_price">Monthly Price</string>
+    <string name="suffix_txt_currency">$</string>
+    <string name="furniture_type">Furniture Type</string>
+    <string name="rb_furnished">Furnished</string>
+    <string name="rb_unfurnished">Unfurnished</string>
+    <string name="rb_part_furnished">Part Furnished</string>
+    <string name="note">Note</string>
+    <string name="name_of_reporter">Name of Reporter</string>
+    <string name="item_bed">Studio</string>
+    <string name="btn_submit">Submit</string>
+    
+    <!-- Valication  -->
+    <string name="validate_property_error_txt">Choose a property type.</string>
+    <string name="validate_bedrooms_error_txt">Choose an amount.</string>
+    <string name="validate_date_time_error_txt">Choose date and time.</string>
+    <string name="validate_monthly_price">Enter a monthly price.</string>
+    <string name="validate_name_of_reporter">Enter your name.</string>
+    <string name="empty_form">Please fill out these fields to created.</string>
+
+    <!-- Alert dialog -->
+    <string name="alert_dialog_message">Do you certain to want submit these fields?</string>
+    <string name="positive_btn">Yes</string>
+    <string name="negative_btn">Cancle</string>
+    <string name="positive_result_toast">Your information submitted successful.</string>
+    <string name="txt_failure_storage">Error submitted</string>
+</resources>
